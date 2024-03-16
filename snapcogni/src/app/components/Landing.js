@@ -15,10 +15,10 @@ function Landing(props) {
                 How many do we lose every week?
             </div>
             <div className="absolute right-[20px] w-[10rem] bottom-[10px] tracking-widest">
-                How many do we lose every month?
+                How many do we lose every year?
             </div>
-            <div className="absolute left-[20px] w-[10rem] bottom-[10px] tracking-widest">
-               How many do we lose every year?
+            <div className="absolute left-[20px] w-[11rem] bottom-[10px] tracking-widest">
+               How many do we lose every month?
             </div>
         </div>
     );
